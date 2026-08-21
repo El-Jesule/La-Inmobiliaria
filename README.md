@@ -66,7 +66,7 @@ Si alguno no está disponible, instala la versión LTS de Node.js desde [nodejs.
 ### Clonar e instalar
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/El-Jesule/La-Inmobiliaria.git
 cd la-inmobiliaria
 npm install
 ```
@@ -85,6 +85,12 @@ Vite mostrará la URL local, normalmente `http://localhost:5173`.
 npm run build
 npm run preview
 ```
+
+## Deployment
+
+La aplicación está desplegada en Vercel:
+
+**[Visitar HabitaFactoría en Vercel](https://habitafactoria.vercel.app/)**
 
 ## Rutas
 
